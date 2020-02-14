@@ -13,7 +13,7 @@ That way a node does not possess the original file.
 Therefore, it can not be held accountable for potentially illegal files uploaded.
 Furthermore, multiple fragments are generated and an arbitrary subsets of 4 fragments allow to reassemble the file.
 
-Looking back on this project, I see a lot of room for improvements ;)
+Looking back on this project, I see a lot of room for improvements, but I got a good grade :)
 
 ## Usage
 
