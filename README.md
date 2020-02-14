@@ -1,6 +1,6 @@
 # Cirrolus - A P2P-Cloud
 
-![Cirrolus Logo](https://user-images.githubusercontent.com/4940804/74536932-5f5ecd00-4f39-11ea-8630-98da10f63877.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/4940804/74536932-5f5ecd00-4f39-11ea-8630-98da10f63877.png" alt="Cirrolus Logo"></p>
 
 I programmed Cirrolus a P2P-Cloud storage prototype as part of my matriculation project (German: Maturaarbeit).
 In Switzerland, each student has to do a matriculation project to complete high school.
